@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 500;
+}
+.navbar {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
